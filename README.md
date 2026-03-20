@@ -19,7 +19,7 @@ Illustrations of the chapter's concepts are based on an oncology clinical trial 
 
 ### 1. Synthetic Dataset
 
-- **File:** `simulated_hnca_300.csv`
+- **File:** [`simulated_hnca_300.csv`](simulated_hnca_300.csv)
 - **Description:** Simulated dataset with 300 subjects, including all variables as demonstrated in the chapter. The outcome is overall survival (time-to-event).
 - **Purpose:** Enables users to recreate the analyses and outputs shown in the chapter and its supplement.
 
@@ -33,7 +33,7 @@ Illustrations of the chapter's concepts are based on an oncology clinical trial 
 
 ### 2. Data Dictionary
 
-- **File:** `Data Dictionary.xlsx`
+- **File:** [`Data Dictionary.xlsx`](Data%20Dictionary.xlsx)
 - **Description:** Defines all variables included in the dataset, including coding and descriptions.
 
 ---
@@ -42,9 +42,14 @@ Illustrations of the chapter's concepts are based on an oncology clinical trial 
 
 Three R scripts are provided to produce analyses, tables, and figures similar to those used in the examples. Each script is self-contained and uses the synthetic dataset as input.
 
-- Example of performance measures for a biomarker with a binary outcome: `Table S3.3 Binary outcome.R`
-- Example of performance measures for a biomarker with a time-to-event outcome (OS): `Table 3.4 Survival outcome.R`
-- Cut-off identification for baseline hemoglobin (the outcome is OS): `Figure S3.6 & Table S3.7 hemoglobin cutoff.R`
+- Example of performance measures for a biomarker with a binary outcome:  
+  [`Table S3.3 Binary outcome.R`](Table%20S3.3%20Binary%20outcome.R)
+
+- Example of performance measures for a biomarker with a time-to-event outcome (OS):  
+  [`Table 3.4 Survival outcome.R`](Table%203.4%20Survival%20outcome.R)
+
+- Cut-off identification for baseline hemoglobin (the outcome is OS):  
+  [`Figure S3.6 & Table S3.7 hemoglobin cutoff.R`](Figure%20S3.6%20%26%20Table%20S3.7%20hemoglobin%20cutoff.R)
 
 All analyses were conducted using R version 4.5.1. The packages and functions described in this chapter and its supplement were available and verified at the time of writing. Future updates to these packages may cause code examples to behave differently.
 
@@ -52,7 +57,5 @@ All analyses were conducted using R version 4.5.1. The packages and functions de
 
 ### 4. Supplementary Material
 
-- **File:** `Supplement.docx`
+- **File:** [`Supplement.docx`](Supplement.docx)
 - **Description:** Provides further insights into the statistical methods described in the main chapter. Presents supplementary figures and tables to support the analyses referenced in the main text.
-
-
