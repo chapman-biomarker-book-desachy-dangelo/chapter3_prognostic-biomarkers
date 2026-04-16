@@ -52,10 +52,3 @@ Three R scripts are provided to produce analyses, tables, and figures similar to
   [`Figure S3.6 & Table S3.7 hemoglobin cutoff.R`](Figure%20S3.6%20%26%20Table%20S3.7%20hemoglobin%20cutoff.R)
 
 All analyses were conducted using R version 4.5.1. The packages and functions described in this chapter and its supplement were available and verified at the time of writing. Future updates to these packages may cause code examples to behave differently.
-
----
-
-### 4. Supplementary Material
-
-- **File:** [`Supplement.docx`](Supplement.docx)
-- **Description:** Provides further insights into the statistical methods described in the main chapter. Presents supplementary figures and tables to support the analyses referenced in the main text.
