@@ -46,7 +46,7 @@ Three R scripts are provided to produce analyses, tables, and figures similar to
   [`Table S3.3 Binary outcome.R`](Table%20S3.3%20Binary%20outcome.R)
 
 - Example of performance measures for a biomarker with a time-to-event outcome (OS):  
-  [`Table 3.4 Survival outcome.R`](Table%203.4%20Survival%20outcome.R)
+  [`Table 3.2 Survival outcome.R`](Table%203.2%20Survival%20outcome.R)
 
 - Cut-off identification for baseline hemoglobin (the outcome is OS):  
   [`Figure S3.6 & Table S3.7 hemoglobin cutoff.R`](Figure%20S3.6%20%26%20Table%20S3.7%20hemoglobin%20cutoff.R)
